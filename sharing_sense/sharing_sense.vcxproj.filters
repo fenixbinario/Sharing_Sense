@@ -17,5 +17,9 @@
   <ItemGroup>
     <None Include="sharing_sense.ino" />
   </ItemGroup>
- 
+  <ItemGroup>
+    <ClInclude Include="__vm\.sharing_sense.vsarduino.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
